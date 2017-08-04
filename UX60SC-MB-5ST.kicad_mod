@@ -1,4 +1,4 @@
-(module UX60SC-MB-5ST (layer F.Cu) (tedit 54BDF71D)
+(module UX60SC-MB-5ST (layer F.Cu) (tedit 586A6942)
   (fp_text reference USB1 (at 0 -7.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -94,6 +94,6 @@
   (pad 5 smd rect (at 1.6 -6.1) (size 0.5 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -0.8 -6.1) (size 0.5 1.4) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at -1.6 -6.1) (size 0.5 1.4) (layers F.Cu F.Paste F.Mask))
-  (pad SH2 smd rect (at 4.2 -3.7) (size 2.5 3.8) (layers F.Cu F.Paste F.Mask))
+  (pad SH smd rect (at 4.2 -3.7) (size 2.5 3.8) (layers F.Cu F.Paste F.Mask))
   (pad SH smd rect (at -4.2 -3.7) (size 2.5 3.8) (layers F.Cu F.Paste F.Mask))
 )
