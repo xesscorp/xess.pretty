@@ -1,4 +1,4 @@
-(module xess:HOLE (layer F.Cu) (tedit 532B1A49)
+(module HOLE (layer F.Cu) (tedit 532B1A49)
   (fp_text reference H2 (at 0 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

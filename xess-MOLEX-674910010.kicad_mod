@@ -4,7 +4,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.0889)))
   )
   (fp_text value "" (at 0 0) (layer F.SilkS)
-    (effects (font (thickness 0.15)))
+    (effects (font (size 1.524 1.524) (thickness 0.15)))
   )
   (fp_line (start -7.99846 1.99898) (end 4.39928 1.99898) (layer F.SilkS) (width 0.127))
   (fp_line (start 4.39928 1.99898) (end 4.89966 1.4986) (layer F.SilkS) (width 0.127))

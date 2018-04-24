@@ -1,0 +1,9 @@
+(module stitch-1.0 (layer F.Cu) (tedit 55F8DA01)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value stitch-1.0 (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 1 1) (drill 0.6) (layers *.Cu *.Mask F.SilkS))
+)
